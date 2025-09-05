@@ -1,5 +1,5 @@
 
-# Laravel2ERD
+# Laravel2ERD (V2 avaiable here: https://github.com/Priom7/laravel2doc)
 
 [![npm](https://img.shields.io/npm/v/@priom7/laravel2erd?color=blue)](https://www.npmjs.com/package/@priom7/laravel2erd)
 [![npm downloads](https://img.shields.io/npm/dt/@priom7/laravel2erd?label=Downloads&color=green)](https://www.npmjs.com/package/@priom7/laravel2erd)
