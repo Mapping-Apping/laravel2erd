@@ -1,6 +1,6 @@
 {
   "name": "@priom7/laravel2erd",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Automatically generate ERD diagrams for Laravel applications",
   "main": "lib/generator.js",
   "bin": {
